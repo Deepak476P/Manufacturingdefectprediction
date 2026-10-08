@@ -1,0 +1,10 @@
+# Local Python environment and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+.env.*
